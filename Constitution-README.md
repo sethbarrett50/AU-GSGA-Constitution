@@ -248,11 +248,11 @@ Acting as the voice of all graduate and professional students enrolled at August
 
 2.  House of Representatives
 
-3.  It is the responsibility of every representative to be the liaison for their respective classes, programs, and colleges. Any form of communication that the GSGA sends out to be distributed, must be emailed or distributed to the rest of the student body.
+    1.  It is the responsibility of every representative to be the liaison for their respective classes, programs, and colleges. Any form of communication that the GSGA sends out to be distributed, must be emailed or distributed to the rest of the student body.
 
-4.  It is required that each representative attend a retreat, fundraiser, and service project.
+    2.  It is required that each representative attend a retreat, fundraiser, and service project.
 
-5.  Failure to fulfill these obligations may result in a loss of voting privileges, any revocation of privileges will be decided by members of the current Executive Board.
+    3.  Failure to fulfill these obligations may result in a loss of voting privileges, any revocation of privileges will be decided by members of the current Executive Board.
 
 6.  House of Representatives Committees
 
@@ -280,9 +280,9 @@ Acting as the voice of all graduate and professional students enrolled at August
 
 4.  Committee Membership:
 
-5.  All committee members must be AU graduate or professional students. It is not required that the student be a GSGA Representative to serve on a House of Representatives Committee.
+    1.  All committee members must be AU graduate or professional students. It is not required that the student be a GSGA Representative to serve on a House of Representatives Committee.
 
-6.  Each GSGA Representative must participate as a member of one of the GSGA committees, including special purpose and ad hoc committees during each school year.
+    2.  Each GSGA Representative must participate as a member of one of the GSGA committees, including special purpose and ad hoc committees during each school year.
 
 7.  The duties of the committee members shall be as follows:
 
@@ -324,11 +324,11 @@ Acting as the voice of all graduate and professional students enrolled at August
 
     2.  The amount awarded should maintain the same for all students depending on the presentation type. The amount awarded for attending, poster, or oral presentations needs to be determined by the Executive Board prior to the semester.
 
-6.  The travel funding requests are not part of a student organization.
+    3.  The travel funding requests are not part of a student organization.
 
-    1.  There is a \$600 limit per semester on individual travel requests a student can submit.
+    4.  There is a \$600 limit per semester on individual travel requests a student can submit.
 
-    2.  Group travel requests are not permitted.
+    5.  Group travel requests are not permitted.
 
 7.  Student Organizations
 
