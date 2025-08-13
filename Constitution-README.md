@@ -308,7 +308,7 @@ Acting as the voice of all graduate and professional students enrolled at August
 
     2.  All funding requests must be submitted prior to travel/event date.
 
-    3.  The business specialist has a right to her reimbursement timeline and requirements.
+    3.  The business specialist has a right to their reimbursement timeline and requirements.
 
 2.  Funding requests will only be accepted for an event or travel occurring in the same academic semester.
 
