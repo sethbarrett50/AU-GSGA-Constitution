@@ -168,7 +168,7 @@ Acting as the voice of all graduate and professional students enrolled at August
 
     2.  Must have and maintain a 2.5 GPA.
 
-    3.  You must be willing to fulfill all responsibility for the position you are elected for.
+    3.  Must be willing to fulfill all responsibility for the position elected for.
 
 4.  Election:
 
@@ -386,7 +386,7 @@ Acting as the voice of all graduate and professional students enrolled at August
 
     3.  Must have and maintain a 2.5 GPA.
 
-    4.  You must be willing to fulfill all responsibility for the Justice position you are appointed for.
+    4.  Must be willing to fulfill all responsibility for the Justice position appointed for.
 
 3.  Appointment
 
