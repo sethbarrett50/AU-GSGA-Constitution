@@ -366,7 +366,7 @@ Acting as the voice of all graduate and professional students enrolled at August
 
 ## **Section I. Purpose**
 
-1.  The GSGA Judicial Board and its Justices provide an impartial evaluation of GSGA Constitution adherence such as funding request approval, Roberts Rules of Order usage in meetings, and paying attention to any changes that have been made to the Undergraduate SGA Constitution in the past semester.
+1.  The GSGA Judicial Board and its Justices provide an impartial evaluation of GSGA Constitution adherence such as funding request approval, Roberts Rules of Order usage in meetings, and paying attention to any changes that have been made to the Graduate SGA Constitution in the past semester.
 
 # 
 
