@@ -124,7 +124,7 @@ Acting as the voice of all graduate and professional students enrolled at August
 
 6.  Public Relations
 
-    1.  The GSGA Public Relations Officer will manage all social media accounts and serve as the chair of the Communications Committee. This officer will maintain and post on all GSGA affiliated social media accounts weekly, create advertisements for all GSGA hosted events, and organize and execute promotion of all GSGA hosted events. The Public relations Officer may use members of the Communications Committee to ensure all promotion materials are effectively dispersed. This officer must also serve as historian or appoint a Communications Committee member in their place to document and record pictures at all GSGA hosted events. These can be used for the promotion of other GSGA events and organization reports in the future. The stipend for the Public Relations Officer is \$2100, paid in four \$525 increments.
+    1.  The GSGA Public Relations Officer will manage all social media accounts and serve as the chair of the Communications Committee. This officer will maintain and post on all GSGA affiliated social media accounts weekly, create advertisements for all GSGA hosted events, and organize and execute promotion of all GSGA hosted events. The Public Relations Officer may use members of the Communications Committee to ensure all promotion materials are effectively dispersed. This officer must also serve as historian or appoint a Communications Committee member in their place to document and record pictures at all GSGA hosted events. These can be used for the promotion of other GSGA events and organization reports in the future. The stipend for the Public Relations Officer is \$2100, paid in four \$525 increments.
 
 7.  Undergraduate Liaison
 
