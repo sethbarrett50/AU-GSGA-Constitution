@@ -138,7 +138,7 @@ Acting as the voice of all graduate and professional students enrolled at August
 
 1. Representatives  
    1. Any GSGA Representative may resign at any point in time with a letter of resignation submitted to the Executive Board and to the appropriate advisor  
-   2. If there is evidence to suggest that a representative is not fulfilling their duties, then a petition may be written to remove that representative. Any petition must be signed by at least three voting members. Both sides shall have an opportunity to present their respective cases to the Judiciary for a final decision. The representatives shall vote by a secret ballot regarding the impeachment of the accused. A simple majority shall determine the result of the vote. The Executive shall remain in good standing until a final decision is made. The representative shall remain in good standing until a final decision is made.   
+   2. If there is evidence to suggest that a representative is not fulfilling their duties, then a petition may be written to remove that representative. Any petition must be signed by at least three voting members. Both sides shall have an opportunity to present their respective cases to the Judiciary for a final decision. The representatives shall vote by a secret ballot regarding the impeachment of the accused. A simple majority shall determine the result of the vote. The representative shall remain in good standing until a final decision is made.   
    3. GSGA Representatives may be removed automatically by the GSGA Vice President without a removal hearing if the attendance policy is violated.   
 2. Justices  
    1. Any GSGA Justice may resign at any point in time with a letter of resignation submitted to the Executive Board and to the appropriate advisor.   
