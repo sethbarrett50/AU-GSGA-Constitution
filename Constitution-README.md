@@ -120,7 +120,7 @@ Acting as the voice of all graduate and professional students enrolled at August
 
 5.  Humanitarian
 
-    1.  The GSGA Humanitarian will serve as a liaison to service-oriented student organizations, serve as a standing member of the Budget Committee, support the other executive board members as needed, and work to foster school-wide community service and philanthropy projects. The Huminatrian will serve as the chair of the Community Service and Philanthropy Committee. The stipend for the Humanitarian is \$2100, paid in four \$525 increments.
+    1.  The GSGA Humanitarian will serve as a liaison to service-oriented student organizations, serve as a standing member of the Budget Committee, support the other executive board members as needed, and work to foster school-wide community service and philanthropy projects. The Humanitarian will serve as the chair of the Community Service and Philanthropy Committee. The stipend for the Humanitarian is \$2100, paid in four \$525 increments.
 
 6.  Public Relations
 
