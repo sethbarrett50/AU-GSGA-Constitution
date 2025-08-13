@@ -104,7 +104,7 @@ Acting as the voice of all graduate and professional students enrolled at August
 
 1.  President
 
-    1.  The GSGA President will, among other duties as assigned, attend all House/Senate business meetings, act as the official representative from the GSGA to the administration and faculty, appoint the chairman of all standing and ad hoc committees, serve as a standing member of the Student Activity Fee Committee, and the Mandatory Student Fee Committee, and aid in the orientation of new GSGA Representatives. The President will provide training to the new president and aid in the orientation of the incoming executive board. The President must also assign or delegate other tasks as they arise to members of the cabinet. The stipend for the President is \$2800, paid in four \$700 increments. 
+    1.  The GSGA President will, among other duties as assigned, attend all House business meetings, act as the official representative from the GSGA to the administration and faculty, appoint the chairman of all standing and ad hoc committees, serve as a standing member of the Student Activity Fee Committee, and the Mandatory Student Fee Committee, and aid in the orientation of new GSGA Representatives. The President will provide training to the new president and aid in the orientation of the incoming executive board. The President must also assign or delegate other tasks as they arise to members of the cabinet. The stipend for the President is \$2800, paid in four \$700 increments. 
 
 2.  Vice President
 
@@ -190,13 +190,13 @@ Acting as the voice of all graduate and professional students enrolled at August
 
 2.  Meeting Notice
 
-    1.  The agenda for the upcoming meeting, including any attachments, shall be provided to all SGA Senators and Representatives at least 48 hours prior to the meeting by email or some other electronic medium (e.g., dropbox, or posted on a web page, etc.)
+    1.  The agenda for the upcoming meeting, including any attachments, shall be provided to all SGA Representatives at least 48 hours prior to the meeting by email or some other electronic medium (e.g., dropbox, or posted on a web page, etc.)
 
 3.  Meeting Agenda
 
     1.  A meeting may only occur if quorum is reached. If quorum is not reached, the meeting may proceed but voting procedures may not occur. If quorum is not met 2 times in a row, voting procedures may occur on impeachment and membership proceedings
 
-    2.  The routine order of business for regular meetings of the Senate and House of Representatives shall be:
+    2.  The routine order of business for regular meetings of the House of Representatives shall be:
 
         1.  Roll Call
 
@@ -218,7 +218,7 @@ Acting as the voice of all graduate and professional students enrolled at August
 
 4.  Attendance
 
-    1.  Representatives are permitted one unexcused absence per semester. May be excused if appropriate documentation is provided to the Senate Secretary. See item C.
+    1.  Representatives are permitted one unexcused absence per semester. May be excused if appropriate documentation is provided to the Secretary. See item C.
 
     2.  Representatives are permitted one unexcused absence per year.
 
@@ -226,15 +226,15 @@ Acting as the voice of all graduate and professional students enrolled at August
 
         1.  Excuses must be submitted at least 24 hours ahead of time.
 
-    4.  Senators are permitted to attend meetings online *only* if the senator is out of town due to educational fieldwork, military service, etc.
+    4.  Representatives are permitted to attend meetings online *only* if the Representative is out of town due to educational fieldwork, military service, etc.
 
         1.  Those joining online must have an actively working camera that is kept on in order to be marked as present.
 
 5.  Voting
 
-    1.  Only SGA Senators and Representatives present and in good standing as per attendance policies shall be eligible to vote.
+    1.  Only SGA Representatives present and in good standing as per attendance policies shall be eligible to vote.
 
-    2.  Each SGA Senator or Representative shall have one vote
+    2.  Each SGA Representative shall have one vote
 
     3.  A quorum for regular meetings will be 50% plus one of the current membership.
 
