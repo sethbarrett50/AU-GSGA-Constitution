@@ -79,9 +79,7 @@ Acting as the voice of all graduate and professional students enrolled at August
     6.  Results will be sent via email.
 
     7.  If there are executive board positions that have not been filled via the traditional election process, then the president shall appoint a candidate to fill the position. The Candidate must meet all requirements for the position expressed in the GSGA Bylaws and be approved by a 2/3rd majority in the House during a general meeting. Following approval, the candidate shall assume the position and all responsibilities and duties therein.  
-
-        1.  In the event that any of these positions are left unfilled following an election, the President Elect shall appoint a candidate to fill the position. The candidate must meet all requirements for the position expressed in the GSGA Bylaws and approved by a 2/3rd majority in the House. Following approval, the candidate shall assume the position and all responsibilities and duties therein.
-
+    
     8.  The Undergraduate Liaison position will be appointed by dual agreement between the recently sworn-in Undergraduate and Graduate SGA President.
 
     9.  All elected positions will be sworn in at the first official meeting after the election and begin their term responsibilities at the April meeting.
