@@ -78,7 +78,7 @@ Acting as the voice of all graduate and professional students enrolled at August
 
     6.  Results will be sent via email.
 
-    7.  If there are executive board positions that have not been filled via the traditional election process, then the president shall appoint a candidate to fill the position. The Candidate must meet all requirements for the position expressed in the GSGA Bylaws and be approved by a 2/3rd majority in the House during a general meeting. Following approval, the candidate shall assume the position and all responsibilities and duties therein.  
+    7.  If there are executive board positions that have not been filled via the traditional election process, then the president shall appoint a candidate to fill the position. The Candidate must meet all requirements for the position expressed in the GSGA Bylaws and be approved by a ⅔rds majority in the House during a general meeting. Following approval, the candidate shall assume the position and all responsibilities and duties therein.  
     
     8.  The Undergraduate Liaison position will be appointed by dual agreement between the recently sworn-in Undergraduate and Graduate SGA President.
 
@@ -424,17 +424,17 @@ Acting as the voice of all graduate and professional students enrolled at August
 
 1.  The House of Representatives shall be governed by their Bylaws.
 
-2.  A two-thirds vote of the House of Representatives is needed to amend the Bylaws of the House. The GSGA President may veto any amendment passed by the House. The President may veto a particular amendment only once, and a three-fourths vote of the House shall be necessary to override the veto.
+2.  A ⅔rds vote of the House of Representatives is needed to amend the Bylaws of the House. The GSGA President may veto any amendment passed by the House. The President may veto a particular amendment only once, and a ¾ths vote of the House shall be necessary to override the veto.
 
 
 
 # **Article VI. Constitution Section I. Ratification**
 
-1.  This Constitution shall become effective upon receiving two-thirds of the vote cast by the House of Representatives and approval of the AU Provost.
+1.  This Constitution shall become effective upon receiving ⅔rds of the vote cast by the House of Representatives and approval of the AU Provost.
 
 2.  Upon ratification, this Constitution, Bylaws, and its associated codes shall supersede all previous governing documents which shall be deemed null and void.
 
-3.  If the Constitution is deemed in need of major and/or multiple revisions, the GSGA President may call for a Constitutional Committee to create a new governing constitution of the AU GSGA. After which the old constitution must be nullified and the new one adopted with at least a three-fourths majority vote by the House of Representatives and approved by the AU Provost. The newly adopted Constitution shall go into effect immediately upon the joint ratification.
+3.  If the Constitution is deemed in need of major and/or multiple revisions, the GSGA President may call for a Constitutional Committee to create a new governing constitution of the AU GSGA. After which the old constitution must be nullified and the new one adopted with at least a ¾ths majority vote by the House of Representatives and approved by the AU Provost. The newly adopted Constitution shall go into effect immediately upon the joint ratification.
 
 # 
 
@@ -442,7 +442,7 @@ Acting as the voice of all graduate and professional students enrolled at August
 
 1.  Amendments shall be drafted to make deletions and insertions to the Constitution.
 
-2.  Amendments to the Constitution may be proposed by a two-thirds vote of the House of Representatives, or by a petition of 5% of the respective Student Body directed to the GSGA President.
+2.  Amendments to the Constitution may be proposed by a ⅔rds vote of the House of Representatives, or by a petition of 5% of the respective Student Body directed to the GSGA President.
 
-3.  Amendments shall become parts of this Constitution upon being reviewed by a Constitutional Review Committee composed of the GSGA Advisor(s) and GSGA President and the Vice President. Upon approval by the committee, the House of Representatives shall vote concerning the proposed amendment and must approve of the amendment with a three-fourths vote. After approval, the amendment must be advertised to the student body for no less than two weeks before taking effect.
+3.  Amendments shall become parts of this Constitution upon being reviewed by a Constitutional Review Committee composed of the GSGA Advisor(s) and GSGA President and the Vice President. Upon approval by the committee, the House of Representatives shall vote concerning the proposed amendment and must approve of the amendment with a ¾ths vote. After approval, the amendment must be advertised to the student body for no less than two weeks before taking effect.
 
